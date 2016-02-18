@@ -62,7 +62,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&quot;Determinar-o-QE&quot;&gt;&lt;a href=&quot;#Determinar-o-QE&quot; class=&quot;headerlink&quot; title=&quot;Determinar o QE&quot;&gt;&lt;/a&gt;Determinar o QE&lt;/h2&gt;&lt;div id=&quot;googleChart5676&quot;&gt;&lt;/div&gt;
+&lt;h2 id=&quot;Determinar-o-QE&quot;&gt;&lt;a href=&quot;#Determinar-o-QE&quot; class=&quot;headerlink&quot; title=&quot;Determinar o QE&quot;&gt;&lt;/a&gt;Determinar o QE&lt;/h2&gt;&lt;div id=&quot;googleChart528&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
   if (!window.google) {
     document.body.innerHTML = &#39;You need to include the script //google.com/jsapi on your template&#39;;
@@ -71,7 +71,7 @@
     (function() {
       google.load(&#39;visualization&#39;, &#39;1.0&#39;, {&#39;packages&#39;: [&quot;corechart&quot;,&quot;geochart&quot;,&quot;table&quot;]});
       google.setOnLoadCallback(function() {
-        (new google.visualization.ChartType(document.getElementById(&quot;googleChart5676&quot;))).draw(google.visualization.arrayToDataTable([[&#39;Column1&#39;, &#39;Column2&#39;, &#39;Column3&#39;],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{&quot;customOptions&quot;:true,&quot;title&quot;:&quot;Title for the Graph&quot;,&quot;width&quot;:&quot;[width&quot;,&quot;height&quot;:&quot;[height]]&quot;});
+        (new google.visualization.ChartType(document.getElementById(&quot;googleChart528&quot;))).draw(google.visualization.arrayToDataTable([[&#39;Column1&#39;, &#39;Column2&#39;, &#39;Column3&#39;],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{&quot;customOptions&quot;:true,&quot;title&quot;:&quot;Title for the Graph&quot;,&quot;width&quot;:&quot;[width&quot;,&quot;height&quot;:&quot;[height]]&quot;});
       });
     })();
   }
