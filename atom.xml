@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MN Estatistica</title>
+  <subtitle>Consultoria &amp; Pesquisa</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.mnestatistica.com/"/>
+  <updated>2016-02-18T15:34:01.000Z</updated>
+  <id>http://www.mnestatistica.com/</id>
+  
+  <author>
+    <name>Marcio Nicolau</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Voce sabe como funciona o Quociente eleitoral?</title>
+    <link href="http://www.mnestatistica.com/2016/01/19/Quociente-eleitoral/"/>
+    <id>http://www.mnestatistica.com/2016/01/19/Quociente-eleitoral/</id>
+    <published>2016-01-19T02:00:00.000Z</published>
+    <updated>2016-02-18T15:34:01.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;O-Numero-magico&quot;&gt;&lt;a href=&quot;#O-Numero-magico&quot; class=&quot;headerlink&quot; title=&quot;O Número mágico&quot;&gt;&lt;/a&gt;O Número mágico&lt;/h1&gt;&lt;p&gt;Voce sabe o que é e como funciona o quociente partidário? Se sim, então sabe também o quanto este valor pode ser responsável direto por qualquer candidato vencer o pleito ou não dependendo apenas de algum contexto específico e favorável.&lt;/p&gt;
+&lt;p&gt;Em resumo existem 3 cálculos básicos e determinantes para a distribuição das vagas em todas as câmaras municipais de vereadores. Vejamos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quociente Eleitoral (Art. 106 do Código Eleitoral Brasileiro)&lt;/li&gt;
+&lt;li&gt;Quociente Partidário (Art. 107 do Código Eleitoral Brasileiro)&lt;/li&gt;
+&lt;li&gt;Distribuição das Sobras (Art. 109 do Código Eleitoral Brasileiro)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Determinar-o-numero-de-votos-validos&quot;&gt;&lt;a href=&quot;#Determinar-o-numero-de-votos-validos&quot; class=&quot;headerlink&quot; title=&quot;Determinar o número de votos válidos&quot;&gt;&lt;/a&gt;Determinar o número de votos válidos&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Descrição&lt;/th&gt;
+&lt;th&gt;Votos&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;(A) - Total Eleitores Município&lt;/td&gt;
+&lt;td&gt;86548&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;(B) - Absenção (17%)&lt;/td&gt;
+&lt;td&gt;14713&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;(C) - Brancos (9%)&lt;/td&gt;
+&lt;td&gt;7789&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;(D) - Nulos (3%)&lt;/td&gt;
+&lt;td&gt;7789&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;(E) - Total Votos Validos [A-(B+C+D)]&lt;/td&gt;
+&lt;td&gt;61449&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;* Valores hipotéticos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;Determinar-o-QE&quot;&gt;&lt;a href=&quot;#Determinar-o-QE&quot; class=&quot;headerlink&quot; title=&quot;Determinar o QE&quot;&gt;&lt;/a&gt;Determinar o QE&lt;/h2&gt;&lt;div id=&quot;googleChart5676&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+  if (!window.google) {
+    document.body.innerHTML = &#39;You need to include the script //google.com/jsapi on your template&#39;;
+    throw &#39;Google JS API is needed&#39;;
+  } else {
+    (function() {
+      google.load(&#39;visualization&#39;, &#39;1.0&#39;, {&#39;packages&#39;: [&quot;corechart&quot;,&quot;geochart&quot;,&quot;table&quot;]});
+      google.setOnLoadCallback(function() {
+        (new google.visualization.ChartType(document.getElementById(&quot;googleChart5676&quot;))).draw(google.visualization.arrayToDataTable([[&#39;Column1&#39;, &#39;Column2&#39;, &#39;Column3&#39;],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{&quot;customOptions&quot;:true,&quot;title&quot;:&quot;Title for the Graph&quot;,&quot;width&quot;:&quot;[width&quot;,&quot;height&quot;:&quot;[height]]&quot;});
+      });
+    })();
+  }
+&lt;/script&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;O-Numero-magico&quot;&gt;&lt;a href=&quot;#O-Numero-magico&quot; class=&quot;headerlink&quot; title=&quot;O Número mágico&quot;&gt;&lt;/a&gt;O Número mágico&lt;/h1&gt;&lt;p&gt;Voce sabe o que é 
+    
+    </summary>
+    
+      <category term="Como funciona?" scheme="http://www.mnestatistica.com/categories/Como-funciona/"/>
+    
+    
+      <category term="TRE" scheme="http://www.mnestatistica.com/tags/TRE/"/>
+    
+      <category term="eleições 2016" scheme="http://www.mnestatistica.com/tags/eleicoes-2016/"/>
+    
+      <category term="opnião" scheme="http://www.mnestatistica.com/tags/opniao/"/>
+    
+      <category term="sistema eleitoral" scheme="http://www.mnestatistica.com/tags/sistema-eleitoral/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Avaliação da administração do governador José Ivo Sartori em Passo Fundo Setembro de 2015</title>
+    <link href="http://www.mnestatistica.com/2015/10/01/Avaliacao-Sartori-Passo-Fundo-Set-2015/"/>
+    <id>http://www.mnestatistica.com/2015/10/01/Avaliacao-Sartori-Passo-Fundo-Set-2015/</id>
+    <published>2015-10-01T03:00:00.000Z</published>
+    <updated>2016-02-18T17:32:49.000Z</updated>
+    
+    <content type="html">&lt;div class=&quot;image-strip&quot;&gt;&lt;br&gt;&lt;img src=&quot;/sartori3.jpg&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;O governador está em um momento extremamente difícil e com a popularidade ladeira a baixo.  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Após 9 meses de mandato como governador, José Ivo Sartori (PMDB) passa por um momento complicado de sua imagem pública. O reflexo disso são os resultados das pesquisas com altos índices de reprovação das escolhas administrativas na tentativa de colocar o caixa e as contas do estado em dia.&lt;/p&gt;
+&lt;p&gt;Para saber a opinião da população de Passo Fundo em relação a atual gestão do governador José Ivo Sartori (PMDB), foi realizada pesquisa entre os dias 27 de setembro e 2 de outubro de 2015.&lt;/p&gt;
+&lt;p&gt;Em relação a avaliação da gestão do atual governador 47,6 % avaliaram de forma negativa (ruim ou péssima) e 16,7% avaliaram de forma positiva (bom ou ótima). Desta forma, pode-se destacar que quase a metade dos entrevistados pensam que a gestão tem bastante o que melhorar nos próximos anos do mandato que foi assumido em 2015.&lt;/p&gt;
+&lt;p&gt;A pesquisa foi realizada com um total de 330 entrevistados distribuídos em 30 setores censitários do município, o intervalo de confiança estimado é de 95% e a margem de erro máxima estimada é de 5,4 pontos percentuais.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;MN Estatística&lt;/strong&gt; gostaria de agradecer a todos os entrevistados que se demonstraram receptivos para responder a esta pesquisa.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;image-strip&quot;&gt;&lt;br&gt;&lt;img src=&quot;/sartori3.jpg&quot;&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;O governador está em um momento extremamente difícil e com
+    
+    </summary>
+    
+      <category term="Pesquisa" scheme="http://www.mnestatistica.com/categories/Pesquisa/"/>
+    
+    
+      <category term="RS" scheme="http://www.mnestatistica.com/tags/RS/"/>
+    
+      <category term="política" scheme="http://www.mnestatistica.com/tags/politica/"/>
+    
+  </entry>
+  
+</feed>

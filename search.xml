@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[Voce sabe como funciona o Quociente eleitoral?]]></title>
+      <url>http://www.mnestatistica.com/2016/01/19/Quociente-eleitoral/</url>
+      <content type="html"><![CDATA[<h1 id="O-Numero-magico"><a href="#O-Numero-magico" class="headerlink" title="O Número mágico"></a>O Número mágico</h1><p>Voce sabe o que é e como funciona o quociente partidário? Se sim, então sabe também o quanto este valor pode ser responsável direto por qualquer candidato vencer o pleito ou não dependendo apenas de algum contexto específico e favorável.</p>
+<p>Em resumo existem 3 cálculos básicos e determinantes para a distribuição das vagas em todas as câmaras municipais de vereadores. Vejamos:</p>
+<ul>
+<li>Quociente Eleitoral (Art. 106 do Código Eleitoral Brasileiro)</li>
+<li>Quociente Partidário (Art. 107 do Código Eleitoral Brasileiro)</li>
+<li>Distribuição das Sobras (Art. 109 do Código Eleitoral Brasileiro)</li>
+</ul>
+<h2 id="Determinar-o-numero-de-votos-validos"><a href="#Determinar-o-numero-de-votos-validos" class="headerlink" title="Determinar o número de votos válidos"></a>Determinar o número de votos válidos</h2><table>
+<thead>
+<tr>
+<th>Descrição</th>
+<th>Votos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(A) - Total Eleitores Município</td>
+<td>86548</td>
+</tr>
+<tr>
+<td>(B) - Absenção (17%)</td>
+<td>14713</td>
+</tr>
+<tr>
+<td>(C) - Brancos (9%)</td>
+<td>7789</td>
+</tr>
+<tr>
+<td>(D) - Nulos (3%)</td>
+<td>7789</td>
+</tr>
+<tr>
+<td>(E) - Total Votos Validos [A-(B+C+D)]</td>
+<td>61449</td>
+</tr>
+<tr>
+<td>* Valores hipotéticos</td>
+</tr>
+</tbody>
+</table>
+<h2 id="Determinar-o-QE"><a href="#Determinar-o-QE" class="headerlink" title="Determinar o QE"></a>Determinar o QE</h2><div id="googleChart5676"></div>
+<script>
+  if (!window.google) {
+    document.body.innerHTML = 'You need to include the script //google.com/jsapi on your template';
+    throw 'Google JS API is needed';
+  } else {
+    (function() {
+      google.load('visualization', '1.0', {'packages': ["corechart","geochart","table"]});
+      google.setOnLoadCallback(function() {
+        (new google.visualization.ChartType(document.getElementById("googleChart5676"))).draw(google.visualization.arrayToDataTable([['Column1', 'Column2', 'Column3'],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{"customOptions":true,"title":"Title for the Graph","width":"[width","height":"[height]]"});
+      });
+    })();
+  }
+</script>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Avaliação da administração do governador José Ivo Sartori em Passo Fundo Setembro de 2015]]></title>
+      <url>http://www.mnestatistica.com/2015/10/01/Avaliacao-Sartori-Passo-Fundo-Set-2015/</url>
+      <content type="html"><![CDATA[<div class="image-strip"><br><img src="/sartori3.jpg"><br></div>
+
+<blockquote>
+<p>O governador está em um momento extremamente difícil e com a popularidade ladeira a baixo.  </p>
+</blockquote>
+<p>Após 9 meses de mandato como governador, José Ivo Sartori (PMDB) passa por um momento complicado de sua imagem pública. O reflexo disso são os resultados das pesquisas com altos índices de reprovação das escolhas administrativas na tentativa de colocar o caixa e as contas do estado em dia.</p>
+<p>Para saber a opinião da população de Passo Fundo em relação a atual gestão do governador José Ivo Sartori (PMDB), foi realizada pesquisa entre os dias 27 de setembro e 2 de outubro de 2015.</p>
+<p>Em relação a avaliação da gestão do atual governador 47,6 % avaliaram de forma negativa (ruim ou péssima) e 16,7% avaliaram de forma positiva (bom ou ótima). Desta forma, pode-se destacar que quase a metade dos entrevistados pensam que a gestão tem bastante o que melhorar nos próximos anos do mandato que foi assumido em 2015.</p>
+<p>A pesquisa foi realizada com um total de 330 entrevistados distribuídos em 30 setores censitários do município, o intervalo de confiança estimado é de 95% e a margem de erro máxima estimada é de 5,4 pontos percentuais.</p>
+<p>A <strong>MN Estatística</strong> gostaria de agradecer a todos os entrevistados que se demonstraram receptivos para responder a esta pesquisa.</p>
+]]></content>
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title><![CDATA[404]]></title>
+      <url>http://www.mnestatistica.com/404.html</url>
+      <content type="html"><![CDATA[<div class="row margin-bottom-40">
+<!-- BEGIN CONTENT -->
+<div class="col-md-12 col-sm-12">
+  <br><br><br><br>
+  <div class="content-page page-404">
+    <div class="number">
+      404
+    </div>
+    <div class="details">
+      <h3>Oops!  You're lost.</h3>
+      <p>
+      We can not find the page you're looking for.<br>
+      <a href="/index.html" class="link">Return home</a> or try the search bar below.
+      </p>
+    </div>
+  </div>
+  <br><br><br><br>
+</div>
+<!-- END CONTENT -->
+</div>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Treinamentos]]></title>
+      <url>http://www.mnestatistica.com/trainning/index.html</url>
+      <content type="html"><![CDATA[<!-- BEGIN SIDEBAR & CONTENT -->
+<div class="row margin-bottom-40">
+  <div class="col-md-12 col-sm-12">
+    <div class="content-page">
+      <div class="filter-v1">
+
+	<ul class="mix-filter">
+	  <li data-filter="all" class="filter active">Todos</li>
+	  <li data-filter="category_1" class="filter">Básico</li>
+	  <li data-filter="category_2" class="filter">Melhoria de processos</li>
+	  <li data-filter="category_3" class="filter">Estatística e Conhecimento</li>
+	  <li data-filter="category_3 category_1" class="filter">Coleta e Processamento de dados</li>
+	</ul>
+	<div class="row mix-grid thumbnails">
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img1.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project1" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img2.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project2" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img3.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#projectz" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img4.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project3" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img5.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project3" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img6.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project4" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img1.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project5" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img2.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project6" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img4.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project7" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img3.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project8" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Serviços]]></title>
+      <url>http://www.mnestatistica.com/services/index.html</url>
+      <content type="html"><![CDATA[<!-- BEGIN SIDEBAR & CONTENT -->
+<div class="row margin-bottom-40">
+  <div class="col-md-12 col-sm-12">
+    <div class="content-page">
+      <div class="filter-v1">
+	<ul class="mix-filter">
+	  <li data-filter="all" class="filter active">Todos</li>
+	  <li data-filter="category_1" class="filter">Pesquisa</li>
+	  <li data-filter="category_2" class="filter">Melhoria de processos</li>
+	  <li data-filter="category_3" class="filter">Estatística e Conhecimento</li>
+	  <li data-filter="category_3 category_1" class="filter">Coleta e Processamento de dados</li>
+	</ul>
+	<div class="row mix-grid thumbnails">
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img1.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project1" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img2.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project2" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img3.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#projectz" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img4.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project3" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img5.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project3" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img6.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project4" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img1.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project5" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img2.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project6" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img4.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project7" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img3.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project8" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Projetos]]></title>
+      <url>http://www.mnestatistica.com/projects/index.html</url>
+      <content type="html"><![CDATA[<!-- BEGIN SIDEBAR & CONTENT -->
+<div class="row margin-bottom-40">
+  <div class="col-md-12 col-sm-12">
+    <div class="content-page">
+      <div class="filter-v1">
+	<ul class="mix-filter">
+	  <li data-filter="all" class="filter active">Todos</li>
+	  <li data-filter="category_1" class="filter">Pesquisa</li>
+	  <li data-filter="category_2" class="filter">Melhoria de processos</li>
+	  <li data-filter="category_3" class="filter">Estatística e Conhecimento</li>
+	  <li data-filter="category_3 category_1" class="filter">Coleta e Processamento de dados</li>
+	</ul>
+	<div class="row mix-grid thumbnails">
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img1.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project1" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img2.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project2" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img3.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#projectz" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img4.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project3" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img5.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project3" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img6.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project4" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_2 category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img1.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project5" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 category_2 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img2.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project6" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_3 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img4.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project7" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	  <div class="col-md-4 col-sm-6 mix category_1 mix_all" style="display: block;  opacity: 1;">
+	    <div class="mix-inner">
+	      <img alt="" src="/metronic/assets/pages/img/works/img3.jpg" class="img-responsive">
+	      <div class="mix-details">
+		<h4>Cascusamus et iusto odio</h4>
+		<p>At vero eos et accusamus et iusto odio digniss imos duc sasdimus qui sint blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores.</p>
+		<a class="mix-link"><i class="fa fa-link"></i></a>
+		<a title="Project Name" href="#project8" class="mix-preview"><i class="fa fa-search"></i></a>
+	      </div>
+	      <div class="mix-info container">
+		<h2>Project Name</h2>
+		<p>Lorem ipsum dolor sit amet, dolore eiusmod quis tempor
+		incididunt ut et dolore Ut veniam unde nostrudlaboris. Sed unde
+		omnis iste natus error sit voluptatem.</p>
+		<div class="row quote-v1 margin-bottom-30">
+		  <div class="col-md-7 quote-v1-inner">
+		    <span>Lorem ipsum dolor sit amet, consectetuer adipiscing tempor</span>
+		  </div>
+		  <div class="col-md-5 quote-v1-inner text-right">
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-rocket margin-right-10"></i>Adipiscing</a>
+		    <a href="javascript:;" class="btn-transparent" target="_blank" rel="external"><i class="fa fa-gift margin-right-10"></i>Get it FREE</a>
+		  </div>
+		</div>
+		<div class="row front-lists-v2 margin-bottom-15">
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-html5"></i> HTML5/CSS3</li>
+		      <li><i class="fa fa-bell"></i> Web Deisgn</li>
+		      <li><i class="fa fa-globe"></i> Web Development</li>
+		      <li><i class="fa fa-shopping-cart"></i> Shoping Cart</li>
+		    </ul>
+		  </div>
+		  <div class="col-md-6">
+		    <ul class="list-unstyled">
+		      <li><i class="fa fa-dropbox"></i> Free Storage</li>
+		      <li><i class="fa fa-cloud"></i> Cloud Hosting</li>
+		      <li><i class="fa fa-comments"></i> Free Support</li>
+		      <li><i class="fa fa-star"></i> Awesome UI</li>
+		    </ul>
+		  </div>
+		</div>
+		<a class="btn btn-lg btn-primary" style="color: white;" href="javascript:;" target="_blank" rel="external"> Visit Project</a>
+		<a class="btn btn-lg btn-default back" href="javascript:;" target="_blank" rel="external"> Back</a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
+</div>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Acesso Restrito]]></title>
+      <url>http://www.mnestatistica.com/login/index.html</url>
+      <content type="html"><![CDATA[<!-- BEGIN SIDEBAR & CONTENT -->
+<div class="row margin-bottom-40">
+  <br><br>
+  <!-- BEGIN CONTENT -->
+  <div class="col-md-12 col-sm-12">
+    <div class="content-form-page">
+      <div class="row">
+	<div class="col-md-7 col-sm-7">
+	  <form class="form-horizontal form-without-legend" role="form">
+	    <div class="form-group">
+	      <label for="email" class="col-lg-4 control-label">E-mail <span class="require">*</span></label>
+	      <div class="col-lg-8">
+		<input type="text" class="form-control" id="email">
+	      </div>
+	    </div>
+	    <div class="form-group">
+	      <label for="password" class="col-lg-4 control-label">Senha <span class="require">*</span></label>
+	      <div class="col-lg-8">
+		<input type="text" class="form-control" id="password">
+	      </div>
+	    </div>
+	    <div class="row">
+	      <div class="col-lg-8 col-md-offset-4 padding-left-0">
+		<a href="page-forgotton-password.html">Esqueceu a Senha?</a>
+	      </div>
+	    </div>
+	    <div class="row">
+	      <div class="col-lg-8 col-md-offset-4 padding-left-0 padding-top-20">
+		<button type="submit" class="btn btn-primary">Entrar</button>
+	      </div>
+	    </div>
+	    <div class="row">
+	      <div class="col-lg-8 col-md-offset-4 padding-left-0 padding-top-10 padding-right-30">
+		<hr>
+		<div class="login-socio">
+		  <p class="text-muted">ou acesse com:</p>
+		  <ul class="social-icons">
+		    <li><a href="javascript:;" data-original-title="facebook" class="facebook" title="facebook" target="_blank" rel="external"></a></li>
+		    <li><a href="javascript:;" data-original-title="Twitter" class="twitter" title="Twitter" target="_blank" rel="external"></a></li>
+		    <li><a href="javascript:;" data-original-title="Google Plus" class="googleplus" title="Google Plus" target="_blank" rel="external"></a></li>
+		    <li><a href="javascript:;" data-original-title="Linkedin" class="linkedin" title="LinkedIn" target="_blank" rel="external"></a></li>
+		  </ul>
+		</div>
+	      </div>
+	    </div>
+	  </form>
+	</div>
+	<div class="col-md-4 col-sm-4 pull-right">
+	  <div class="form-info">
+	    <h2>Informação <em>Importante</em></h2>
+	    <p>Duis autem vel eum iriure at dolor vulputate velit esse vel molestie at dolore.</p>
+
+	    <button type="button" class="btn btn-default">Mais detalhes</button>
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
+  <!-- END CONTENT -->
+</div>
+<!-- END SIDEBAR & CONTENT -->
+]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://www.mnestatistica.com/index.html</url>
+      <content type="html"><![CDATA[<div class="container-fluid flush-with-header">
+  <div class="row margin-bottom-40 row-corporate bg-light-1">
+    <div class="container">
+      <div class="col-xs-8 col-sm-6 row-corporate-text-container">
+        <div class="row-corporate-text">
+          <h1>Nós estamos aqui para <b class="require">ajudar</b>.</h1>
+          <h4 class="wow fadeIn"><p>Ao longo da última década várias metodologias e abordagens foram desenvolvidas com o foco em obter informações cada vez mais relevantes para o mercado de atuação das empresas (de todos os tamanhos e setores) as quais pudessem ser otimizadas e associadas com dados de outras fontes e, em alguns casos, dados empíricos ou de experiências obtidas por tentativa e erro.</p>
+          <p>Hoje o mundo é extremamente dinâmico, modernize-se você também!</p></h4>
+        </div>
+      </div>
+      <div class="col-xs-4 col-sm-6">
+        <img src="/metronic/assets/pages/img/frontend-slider/thumb-up.png" style="width: 427px; height: 473px; opacity: 0.7;">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row service-box margin-bottom-40">
+    <div class="col-md-4 col-sm-4">
+      <div class="service-box-heading">
+        <em><i class="fa fa-location-arrow blue wow rollIn"></i></em>
+        <span>Pesquisas Eleitorais</span>
+      </div>
+      <p>Pesquisas eleitorais são atualmente a base para o sucesso de uma campanha eleitoral. Pensar em uma candidatura ou mesmo em administrar uma cidade ou estado nos dias de hoje sem a ajuda da opinião popular é praticamente impossível. Desta forma, são inúmeras as possibilidades de conhecimento que podem e devem ser extraídos desse tipo de pesquisa.</p>
+      <p>Trabalhamos em todas as fases do processo eleitoral no qual realizamos tanto pesquisas avulsas quanto acompanhamento para candidatos, partidos políticos e coligações. </p>
+      <p>Somos responsáveis pelo planejamento, coordenação  e suporte das equipes de coleta, validação da qualidade, tabulação e análise dos dados, confecção do relatório e a apresentação e divulgação dos resultados, quando este último for de interesse.</p>
+      <!-- <img class="img-responsive" src="/pesquisa-eleitoral.jpg" style="width: 360px; height:185px;"> -->
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <div class="service-box-heading">
+        <em><i class="fa fa-check red wow rollIn"></i></em>
+        <span>Pesquisas de Opinião e Mercado</span>
+      </div>
+      <p>Nesta modalidade o objetivo principal é atender ou melhorar um mercado-alvo, as empresas devem dispor de informações relevantes sobre seu campo de atuação, seu negócio, sua concorrência e especialmente seus clientes. O processo  consiste da definição do problema e dos objetivos da pesquisa, do desenvolvimento do plano de pesquisa, da coleta de informações, da análise das informações e da apresentação dos resultados.</p>
+      <p>A principal razão para uma empresa realizar a pesquisa de mercado é a descoberta de uma oportunidade relacionada ao que os consumidores querem e quanto estão dispostos a pagar. Espera-se que este processo lhes confira uma vantagem competitiva sustentável.</p>
+      <!-- <img class="img-responsive" src="/asset3.jpg"> -->
+    </div>
+    <div class="col-md-4 col-sm-4">
+      <div class="service-box-heading">
+        <em><i class="fa fa-compress green wow rollIn"></i></em>
+        <span>Consultoria</span>
+      </div>
+      <p>Mesmo o Brasil enfrentando grandes dificuldades políticas e econômicas, o empreendedorismo vem crescendo e possibilitando a inserção de empresas dos mais variados portes e atividades no mundo dos negócios, como consequência, a demanda pelos serviços de consultoria de mercado não para de crescer.</p>
+      <p>Desta forma o que garante o sucesso das atitudes <b>Lean Six Sigma</b> não é somente a busca por agregar valor, reduzir custos e aumentar a produtividade e a qualidade, mas o grande segredo está em se buscar constantemente a perfeição no trabalho.</p>
+      <p>O Consultor pode ajudar as empresas no adequado posicionamento frente à concorrência e, desta forma, participar do processo de desenvolvimento e expansão que a economia está oferecendo.</p>
+      <!-- <img class="img-responsive" src="/asset1.jpg"> -->
+    </div>
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row margin-bottom-40 row-corporate bg-light-2">
+    <div class="container">
+      <div class="col-xs-4 col-xs-pull-4 col-sm-pull-0 col-sm-6 wow fadeIn">
+        <img src="/metronic/assets/pages/img/frontend-slider/mac.png" style="width: 80%; height: 85%">
+      </div>
+      <div class="col-xs-6 row-corporate-text-container">
+        <div class="row-corporate-text">
+          <h1>Simplesmente focados nos <b class="wow fadeIn require">resultados</b>.</h1>
+          <h4 class="wow fadeIn"><p>Acreditamos que os resultados não devem ser vistos como um objeto fim, ou meta a ser atingida a qualquer custo, mas como forma contínua da busca por objetivos, padrões e metas que são trabalhadas a todo momento e com total dedicação.</p>
+            <p>Busca-se formas sustentáveis de aumentar o retorno financeiro, da percepção da qualidade e da satisfação para todos os elos envolvidos no processo.</p></h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="main">
+  <div class="container">
+    <!-- BEGIN STEPS -->
+    <div class="row margin-bottom-40 front-steps-wrapper front-steps-count-3 wow
+    fadeIn">
+      <div class="col-md-4 col-sm-4 front-step-col">
+        <div class="front-step front-step1">
+          <h2>Projeto</h2>
+          <p>Um estudo inicial detalhado sobre o problema e os impactos que o mesmo vem acumulando, além da correto entendimento do cenário posto pelo cliente e a demanda sob sua ótica.</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 front-step-col">
+        <div class="front-step front-step2">
+          <h2>Coleta e Acompanhamento</h2>
+          <p>Após definir as informações de interesse e os métodos a serem utilizados, todo o desenvolvimento e acompanhamento será realizado a partir deste mapa do processo. A partir desta fase e até o final do processo o norteador da execução e das ações serão definidos e associados ao mapa.</p>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4 front-step-col">
+        <div class="front-step front-step3">
+          <h2>Análise</h2>
+          <p>A compilação, interpretação e resumo de todo o conhecimento gerado durante o processo é utilizado para compor o relatório final de análise e posterior transferência de informações para os clientes.</p>
+        </div>
+      </div>
+    </div>
+    <!-- END STEPS -->
+
+    <!-- BEGIN RECENT WORKS -->
+    <!--
+    <div class="row recent-work margin-bottom-40">
+      <div class="col-md-3">
+        <h2 class="wow fadeIn"><a href="/projects/">Trabalhos Recentes</a></h2>
+        <p class="wow fadeIn">Lorem ipsum dolor sit amet, dolore eiusmod quis tempor incididunt ut et dolore Ut veniam unde voluptatem. Sed unde omnis iste natus error sit voluptatem.</p>
+      </div>
+      <div class="col-md-9">
+        <div class="owl-carousel owl-carousel3">
+          <div class="recent-work-item">
+            <em>
+	      <img src="metronic/assets/pages/img/works/img1.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img1.jpg" class="fancybox-button" title="Project Name #1" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+            <a class="recent-work-description" href="/projects/#project1">
+              <strong>Amazing Project</strong>
+              <b>Agenda corp.</b>
+            </a>
+          </div>
+          <div class="recent-work-item">
+            <em>
+	      <img src="metronic/assets/pages/img/works/img2.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img2.jpg" class="fancybox-button" title="Project Name #2" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+            <a class="recent-work-description" href="/projects/#project1">
+              <strong>Amazing Project</strong>
+              <b>Agenda corp.</b>
+            </a>
+          </div>
+          <div class="recent-work-item">
+            <em>
+	      <img src="metronic/assets/pages/img/works/img3.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img3.jpg" class="fancybox-button" title="Project Name #3" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+            <a class="recent-work-description" href="/projects/#project1">
+              <strong>Amazing Project</strong>
+              <b>Agenda corp.</b>
+            </a>
+          </div>
+          <div class="recent-work-item">
+            <em>
+	      <img src="metronic/assets/pages/img/works/img4.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img4.jpg" class="fancybox-button" title="Project Name #4" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+            <a class="recent-work-description" href="/projects/#project1">
+              <strong>Amazing Project</strong>
+              <b>Agenda corp.</b>
+            </a>
+          </div>
+          <div class="recent-work-item">
+            <em>
+	      <img src="metronic/assets/pages/img/works/img5.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img5.jpg" class="fancybox-button" title="Project Name #5" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+            <a class="recent-work-description" href="/projects/#project1">
+              <strong>Amazing Project</strong>
+              <b>Agenda corp.</b>
+            </a>
+          </div>
+          <div class="recent-work-item">
+            <em>
+	      <img src="metronic/assets/pages/img/works/img6.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img6.jpg" class="fancybox-button" title="Project Name #6" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+            <a class="recent-work-description" href="/projects/#project1">
+              <strong>Amazing Project</strong>
+              <b>Agenda corp.</b>
+            </a>
+          </div>
+          <div class="recent-work-item">
+            <em>
+	      <img src="metronic/assets/pages/img/works/img3.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img3.jpg" class="fancybox-button" title="Project Name #3" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+            <a class="recent-work-description" href="/projects/#project1">
+              <strong>Amazing Project</strong>
+              <b>Agenda corp.</b>
+            </a>
+          </div>
+          <div class="recent-work-item">
+            <em>
+	      <img src="metronic/assets/pages/img/works/img4.jpg" alt="Amazing Project" class="img-responsive">
+	      <a href="portfolio-item.html"><i class="fa fa-link"></i></a>
+	      <a href="metronic/assets/pages/img/works/img4.jpg" class="fancybox-button" title="Project Name #4" data-rel="fancybox-button"><i class="fa fa-search"></i></a>
+	    </em>
+            <a class="recent-work-description" href="/projects/#project1">
+              <strong>Amazing Project</strong>
+              <b>Agenda corp.</b>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  -->
+    <!-- END RECENT WORKS -->
+
+    <!-- BEGIN TABS AND TESTIMONIALS -->
+    <div class="row mix-block margin-bottom-40">
+      <!-- TABS -->
+      <!--
+      <div class="col-md-7 tab-style-1">
+        <ul class="nav nav-tabs">
+          <li class="active"><a href="#tab-1" data-toggle="tab">Multipurpose</a></li>
+          <li><a href="#tab-2" data-toggle="tab">Documented</a></li>
+          <li><a href="#tab-3" data-toggle="tab">Responsive</a></li>
+          <li><a href="#tab-4" data-toggle="tab">Clean & Fresh</a></li>
+        </ul>
+        <div class="tab-content">
+          <div class="tab-pane row fade in active" id="tab-1">
+            <div class="col-md-3 col-sm-3">
+              <a href="metronic/assets/pages/img/works/img6.jpg" class="fancybox-button" title="Image Title" data-rel="fancybox-button">
+                <img class="img-responsive" src="metronic/assets/pages/img/works/img6.jpg" alt="">
+              </a>
+            </div>
+            <div class="col-md-9 col-sm-9">
+              <p class="margin-bottom-10">Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica. Cosby sweater eu banh mi, qui irure terry richardson
+                ex squid Aliquip placeat salvia cillum iphone.</p>
+              <p><a class="more" href="javascript:;">Read more <i class="icon-angle-right"></i></a></p>
+            </div>
+          </div>
+          <div class="tab-pane row fade" id="tab-2">
+            <div class="col-md-9 col-sm-9">
+              <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress,
+                commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit. Keytar helvetica VHS salvia..</p>
+            </div>
+            <div class="col-md-3 col-sm-3">
+              <a href="metronic/assets/temp/works/img10.jpg" class="fancybox-button" title="Image Title" data-rel="fancybox-button">
+                <img class="img-responsive" src="metronic/assets/pages/img/works/img1.jpg" alt="">
+              </a>
+            </div>
+          </div>
+          <div class="tab-pane fade" id="tab-3">
+            <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer, iphone skateboard locavore carles etsy salvia
+              banksy hoodie helvetica. DIY synth PBR banksy irony. Leggings gentrify squid 8-bit cred pitchfork. Williamsburg banh mi whatever gluten-free, carles pitchfork biodiesel fixie etsy retro mlkshk vice blog. Scenester cred you probably haven't
+              heard of them, vinyl craft beer blog stumptown. Pitchfork sustainable tofu synth chambray yr.</p>
+          </div>
+          <div class="tab-pane fade" id="tab-4">
+            <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY, art party locavore wolf cliche high life echo park
+              Austin. Cred vinyl keffiyeh DIY salvia PBR, banh mi before they sold out farm-to-table VHS viral locavore cosby sweater. Lomo wolf viral, mustache readymade thundercats keffiyeh craft beer marfa ethical. Wolf salvia freegan, sartorial keffiyeh
+              echo park vegan.</p>
+          </div>
+        </div>
+      </div>
+    -->
+      <!-- END TABS -->
+
+      <!-- TESTIMONIALS -->
+      <!--
+      <div class="col-md-5 testimonials-v1">
+        <div id="myCarousel" class="carousel slide">
+          <!-- Carousel items -->
+          <!--
+          <div class="carousel-inner">
+            <div class="active item">
+              <blockquote>
+                <p>Denim you probably haven't heard of. Lorem ipsum dolor met consectetur adipisicing sit amet, consectetur adipisicing elit, of them jean shorts sed magna aliqua. Lorem ipsum dolor met.</p>
+              </blockquote>
+              <div class="carousel-info">
+                <img class="pull-left" src="metronic/assets/pages/img/people/img1-small.jpg" alt="">
+                <div class="pull-left">
+                  <span class="testimonials-name">Lina Mars</span>
+                  <span class="testimonials-post">Commercial Director</span>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <blockquote>
+                <p>Raw denim you Mustache cliche tempor, williamsburg carles vegan helvetica probably haven't heard of them jean shorts austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan
+                  helvetica.
+                </p>
+              </blockquote>
+              <div class="carousel-info">
+                <img class="pull-left" src="metronic/assets/pages/img/people/img5-small.jpg" alt="">
+                <div class="pull-left">
+                  <span class="testimonials-name">Kate Ford</span>
+                  <span class="testimonials-post">Commercial Director</span>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <blockquote>
+                <p>Reprehenderit butcher stache cliche tempor, williamsburg carles vegan helvetica.retro keffiyeh dreamcatcher synth. Cosby sweater eu banh mi, qui irure terry richardson ex squid Aliquip placeat salvia cillum iphone.</p>
+              </blockquote>
+              <div class="carousel-info">
+                <img class="pull-left" src="metronic/assets/pages/img/people/img2-small.jpg" alt="">
+                <div class="pull-left">
+                  <span class="testimonials-name">Jake Witson</span>
+                  <span class="testimonials-post">Commercial Director</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Carousel nav -->
+          <!--
+          <a class="left-btn" href="#myCarousel" data-slide="prev"></a>
+          <a class="right-btn" href="#myCarousel" data-slide="next"></a>
+        </div>
+      </div>
+    -->
+
+      <!-- END TESTIMONIALS -->
+    </div>
+    <!-- END TABS AND TESTIMONIALS -->
+    <!-- BEGIN BLOCKQUOTE BLOCK -->
+    <!--
+    <div class="row quote-v1 margin-bottom-40 ">
+      <div class="col-md-9">
+	<span>Metronic - The Most Complete &amp; Popular Admin &amp; Frontend Theme</span>
+      </div>
+      <div class="col-md-3 text-right">
+	<a class="btn-transparent" href="http://www.keenthemes.com/preview/index.php?theme=metronic_admin" target="_blank"><i class="fa fa-rocket margin-right-10"></i>Preview Admin</a>
+      </div>
+    </div>
+-->
+    <!-- END BLOCKQUOTE BLOCK -->
+
+
+    <!-- BEGIN CLIENTS -->
+    <!--
+    <div class="row margin-bottom-40 our-clients">
+      <div class="col-md-3">
+        <h2><a href="javascript:;">Our Clients</a></h2>
+        <p>Lorem dipsum folor margade sitede lametep eiusmod psumquis dolore.</p>
+      </div>
+      <div class="col-md-9">
+        <div class="owl-carousel owl-carousel6-brands">
+          <div class="client-item">
+            <a href="javascript:;">
+              <img src="metronic/assets/pages/img/clients/client_1_gray.png" class="img-responsive" alt="">
+              <img src="metronic/assets/pages/img/clients/client_1.png" class="color-img img-responsive" alt="">
+            </a>
+          </div>
+          <div class="client-item">
+            <a href="javascript:;">
+              <img src="metronic/assets/pages/img/clients/client_2_gray.png" class="img-responsive" alt="">
+              <img src="metronic/assets/pages/img/clients/client_2.png" class="color-img img-responsive" alt="">
+            </a>
+          </div>
+          <div class="client-item">
+            <a href="javascript:;">
+              <img src="metronic/assets/pages/img/clients/client_3_gray.png" class="img-responsive" alt="">
+              <img src="metronic/assets/pages/img/clients/client_3.png" class="color-img img-responsive" alt="">
+            </a>
+          </div>
+          <div class="client-item">
+            <a href="javascript:;">
+              <img src="metronic/assets/pages/img/clients/client_4_gray.png" class="img-responsive" alt="">
+              <img src="metronic/assets/pages/img/clients/client_4.png" class="color-img img-responsive" alt="">
+            </a>
+          </div>
+          <div class="client-item">
+            <a href="javascript:;">
+              <img src="metronic/assets/pages/img/clients/client_5_gray.png" class="img-responsive" alt="">
+              <img src="metronic/assets/pages/img/clients/client_5.png" class="color-img img-responsive" alt="">
+            </a>
+          </div>
+          <div class="client-item">
+            <a href="javascript:;">
+              <img src="metronic/assets/pages/img/clients/client_6_gray.png" class="img-responsive" alt="">
+              <img src="metronic/assets/pages/img/clients/client_6.png" class="color-img img-responsive" alt="">
+            </a>
+          </div>
+          <div class="client-item">
+            <a href="javascript:;">
+              <img src="metronic/assets/pages/img/clients/client_7_gray.png" class="img-responsive" alt="">
+              <img src="metronic/assets/pages/img/clients/client_7.png" class="color-img img-responsive" alt="">
+            </a>
+          </div>
+          <div class="client-item">
+            <a href="javascript:;">
+              <img src="metronic/assets/pages/img/clients/client_8_gray.png" class="img-responsive" alt="">
+              <img src="metronic/assets/pages/img/clients/client_8.png" class="color-img img-responsive" alt="">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  -->
+    <!-- END CLIENTS -->
+  </div>
+</div>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Contato]]></title>
+      <url>http://www.mnestatistica.com/contact/index.html</url>
+      <content type="html"><![CDATA[<h2>Entre em contato</h2>
+<p>Deixe a sua mensagem e vamos pensar juntos a melhor forma de solucionar o seu problema.</p>
+<!-- BEGIN FORM-->
+<form action="http://formspree.io/mnconsultoriaestatistica@gmail.com" role="form" method="POST">
+  <div class="form-group">
+    <label for="contacts-name">Nome</label>
+    <input type="text" class="form-control" id="contacts-name" name="name" required>
+  </div>
+  <div class="form-group">
+    <label for="contacts-email">E-mail</label>
+    <input type="email" class="form-control" id="contacts-email" name="_replyto" required>
+  </div>
+  <div class="form-group">
+    <label for="contacts-message">Mensagem</label>
+    <textarea class="form-control" rows="10" id="contacts-message" name="mensagem"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary"><i class="icon-ok"></i> Enviar</button>
+  <button type="button" class="btn btn-default">Cancelar</button>
+</form>
+<!-- END FORM-->
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Sobre Nós]]></title>
+      <url>http://www.mnestatistica.com/about/index.html</url>
+      <content type="html"><![CDATA[<!-- BEGIN SIDEBAR & CONTENT -->
+<div class="row margin-bottom-40">
+  <!-- BEGIN CONTENT -->
+  <div class="col-md-12 col-sm-12">
+    <div class="content-page">
+      <div class="row margin-bottom-30">
+	<!-- BEGIN INFO BLOCK -->
+	<div class="col-md-8">
+    <h2 class="no-top-space">Missão</h2>
+    <p>A <b>MN Estatística</b> tem por missão oferecer dados estatísticos com maior precisão e confiabilidade, que sejam úteis a sociedade como um todo, contribuindo por meio de resultados que apontem direções e viabilize soluções.</p>
+
+	  <h2 class="no-top-space">Visão</h2>
+	  <p>Buscar, aperfeiçoar e desenvolver métodos quantitativos e qualitativos que visam promover maior credibilidade e acesso as ferramentas e métodos estatísticos afim de alavancar e liderar o mercado, assessorando e servindo de apoio as áreas afins.</p>
+    <p>Agregar conhecimento, buscar melhorias contínuas nos processos internos e externos, na qualidade dos serviços e em relação ao mercado no qual estamos inseridos.</p>
+
+    <h2 class="no-top-space">Valores</h2>
+	  <!-- BEGIN LISTS -->
+	  <div class="row front-lists-v1">
+	    <div class="col-md-6">
+	      <ul class="list-unstyled margin-bottom-20">
+		<li><i class="fa fa-check"></i> Ética </li>
+		<li><i class="fa fa-check"></i> Credibilidade </li>
+		<li><i class="fa fa-check"></i> Respeito </li>
+	      </ul>
+	    </div>
+	    <div class="col-md-6">
+	      <ul class="list-unstyled">
+		<li><i class="fa fa-check"></i> Comprometimento </li>
+		<li><i class="fa fa-check"></i> Excelência </li>
+		<li><i class="fa fa-check"></i> Inovação </li>
+	      </ul>
+	    </div>
+	  </div>
+	  <!-- END LISTS -->
+	</div>
+	<!-- END INFO BLOCK -->
+
+
+      </div>
+
+      <div class="row front-team">
+	<ul class="list-unstyled">
+	  <li class="col-md-3">
+	    <div class="thumbnail">
+              <img src="../metronic/assets/pages/img/people/MN.png" style="width: 225px; height: 250px;">
+	      <h3>
+		<strong>Márcio Nicolau</strong>
+		<small>Estatístico</small>
+	      </h3>
+	      <p>Bacharel em estatística pela UNICAMP/SP com especialização em Melhoria de Processos <em>Lean Six Sigma</em> pela UNINTER. Possui 10 anos de experiência na área de pesquisa e estatística aplicada.</p>
+	      <ul class="social-icons social-icons-color">
+		<li><a class="facebook" data-original-title="Facebook" href="https://www.facebook.com/marcionicolau" target="_blank" rel="external"></a></li>
+		<li><a class="twitter" data-original-title="Twitter" href="https://twitter.com/marcionicolau" target="_blank" rel="external"></a></li>
+		<li><a class="googleplus" data-original-title="Goole Plus" href="https://www.google.com/+MarcioNicolau" target="_blank" rel="external"></a></li>
+		<li><a class="linkedin" data-original-title="Linkedin" href="https://linkedin.com/in/marcionicolau" target="_blank" rel="external"></a></li>
+    <li><a class="github" data-original-title="GitHub" href="https://github.com/marcionicolau" target="_blank" rel="external"></a></li>
+	      </ul>
+	    </div>
+	  </li>
+    <li class="col-md-2"></li>
+	  <li class="col-md-3">
+	    <div class="thumbnail">
+              <img src="../metronic/assets/pages/img/people/CRP.png" style="width: 225px; height: 250px;">
+	      <h3>
+		<strong>Cláudia Pires</strong>
+		<small>Marketing</small>
+	      </h3>
+	      <p>Técnica em Marketing com ênfase em Mídias Sociais. Possui experiência no controle de qualidade em pesquisas e gerenciamento de equipes.</p>
+	      <ul class="social-icons social-icons-color">
+		<li><a class="facebook" data-original-title="Facebook" href="https://www.facebook.com/claudia.pires.35" target="_blank" rel="external"></a></li>
+		<li><a class="googleplus" data-original-title="Goole Plus" href="https://plus.google.com/117827273429779240481" target="_blank" rel="external"></a></li>
+	      </ul>
+	    </div>
+	  </li>
+	</ul>
+      </div>
+
+    </div>
+  </div>
+  <!-- END CONTENT -->
+</div>
+<!-- END SIDEBAR & CONTENT -->
+]]></content>
+    </entry>
+    
+  
+</search>
