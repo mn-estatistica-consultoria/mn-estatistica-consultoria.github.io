@@ -46,7 +46,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="Determinar-o-QE"><a href="#Determinar-o-QE" class="headerlink" title="Determinar o QE"></a>Determinar o QE</h2><div id="googleChart7535"></div>
+<h2 id="Determinar-o-QE"><a href="#Determinar-o-QE" class="headerlink" title="Determinar o QE"></a>Determinar o QE</h2><div id="googleChart6720"></div>
 <script>
   if (!window.google) {
     document.body.innerHTML = 'You need to include the script //google.com/jsapi on your template';
@@ -55,7 +55,7 @@
     (function() {
       google.load('visualization', '1.0', {'packages': ["corechart","geochart","table"]});
       google.setOnLoadCallback(function() {
-        (new google.visualization.ChartType(document.getElementById("googleChart7535"))).draw(google.visualization.arrayToDataTable([['Column1', 'Column2', 'Column3'],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{"customOptions":true,"title":"Title for the Graph","width":"[width","height":"[height]]"});
+        (new google.visualization.ChartType(document.getElementById("googleChart6720"))).draw(google.visualization.arrayToDataTable([['Column1', 'Column2', 'Column3'],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{"customOptions":true,"title":"Title for the Graph","width":"[width","height":"[height]]"});
       });
     })();
   }
@@ -706,6 +706,26 @@
 </div>
 <!-- END SIDEBAR & CONTENT -->
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Pesquisas]]></title>
+      <url>http://www.mnestatistica.com/pesquisas/index.html</url>
+      <content type="html"><![CDATA[<!-- BEGIN SIDEBAR & CONTENT -->
+<div class="row margin-bottom-40">
+    <!-- BEGIN CONTENT -->
+    <div class="col-md-12 col-sm-12">
+        <div class="content-page">
+            <div class="row margin-bottom-30">
+                <!-- BEGIN INFO BLOCK -->
+                <div class="col-md-8">
+                    <h2 class="no-top-space">Pesquisas</h2>
+                    <p>A <b>MN Estatística</b> Realiza pesquisas de mercado e opinião pública com o foco em dar visibilidade e voz aos munícipes.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>]]></content>
     </entry>
     
     <entry>

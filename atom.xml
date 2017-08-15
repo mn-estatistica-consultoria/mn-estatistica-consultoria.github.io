@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.mnestatistica.com/"/>
-  <updated>2017-08-15T04:22:19.233Z</updated>
+  <updated>2017-08-15T04:40:39.700Z</updated>
   <id>http://www.mnestatistica.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.mnestatistica.com/2016/01/19/Quociente-eleitoral/"/>
     <id>http://www.mnestatistica.com/2016/01/19/Quociente-eleitoral/</id>
     <published>2016-01-19T02:00:00.000Z</published>
-    <updated>2017-08-15T04:22:19.233Z</updated>
+    <updated>2017-08-15T04:40:39.700Z</updated>
     
     <content type="html"><![CDATA[<h1 id="O-Numero-magico"><a href="#O-Numero-magico" class="headerlink" title="O Número mágico"></a>O Número mágico</h1><p>Voce sabe o que é e como funciona o quociente partidário? Se sim, então sabe também o quanto este valor pode ser responsável direto por qualquer candidato vencer o pleito ou não dependendo apenas de algum contexto específico e favorável.</p>
 <p>Em resumo existem 3 cálculos básicos e determinantes para a distribuição das vagas em todas as câmaras municipais de vereadores. Vejamos:</p>
@@ -62,7 +62,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="Determinar-o-QE"><a href="#Determinar-o-QE" class="headerlink" title="Determinar o QE"></a>Determinar o QE</h2><div id="googleChart7535"></div>
+<h2 id="Determinar-o-QE"><a href="#Determinar-o-QE" class="headerlink" title="Determinar o QE"></a>Determinar o QE</h2><div id="googleChart6720"></div>
 <script>
   if (!window.google) {
     document.body.innerHTML = 'You need to include the script //google.com/jsapi on your template';
@@ -71,7 +71,7 @@
     (function() {
       google.load('visualization', '1.0', {'packages': ["corechart","geochart","table"]});
       google.setOnLoadCallback(function() {
-        (new google.visualization.ChartType(document.getElementById("googleChart7535"))).draw(google.visualization.arrayToDataTable([['Column1', 'Column2', 'Column3'],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{"customOptions":true,"title":"Title for the Graph","width":"[width","height":"[height]]"});
+        (new google.visualization.ChartType(document.getElementById("googleChart6720"))).draw(google.visualization.arrayToDataTable([['Column1', 'Column2', 'Column3'],[1000, 28, 5],[5000, 71, 19],[10000, 143, 37],[20000, 282, 68]]),{"customOptions":true,"title":"Title for the Graph","width":"[width","height":"[height]]"});
       });
     })();
   }
@@ -102,7 +102,7 @@
     <link href="http://www.mnestatistica.com/2015/10/01/Avaliacao-Sartori-Passo-Fundo-Set-2015/"/>
     <id>http://www.mnestatistica.com/2015/10/01/Avaliacao-Sartori-Passo-Fundo-Set-2015/</id>
     <published>2015-10-01T03:00:00.000Z</published>
-    <updated>2017-08-15T04:22:19.233Z</updated>
+    <updated>2017-08-15T04:40:39.700Z</updated>
     
     <content type="html"><![CDATA[<div class="image-strip"><br><img src="/sartori3.jpg"><br></div>
 
